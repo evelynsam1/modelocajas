@@ -1,0 +1,20 @@
+/** 
+Escribir el CSS necesario aqui
+*/
+
+p{
+	border:black dashed 2px;
+	text-align: center;
+	background: white;
+}
+div{
+	margin-top: 120px;
+	margin-right: 60px;
+	margin-bottom: 30.5px;
+	margin-left: 10px;
+	border:#9900ff solid 30px;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	background-color: #f9cb9c;
+    padding: 20px 20px 50px 120px;
+}
